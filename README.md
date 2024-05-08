@@ -1,8 +1,8 @@
 A simple FVM code to illustrate the algorithm of sharpening an interface in two-phase flows 
-1. The fortran code needs to be compiled as shown below 
+1. The fortran code needs to be compiled as shown: 
   gfortran -fdefault-real-8 2D_levelset_FVM_phi.f90
 
-2. Run the code
+2. Run the code:
    ./a.out
 
 Remarks 
