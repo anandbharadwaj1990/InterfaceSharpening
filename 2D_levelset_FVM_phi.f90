@@ -1,5 +1,6 @@
+!Code to illustrate interface sharpening in two-phase flows in conservative levelset method  
+!Refer the variable index file on github for more information
 program main
-
 implicit none
 
 integer :: i,j,imax, jmax
