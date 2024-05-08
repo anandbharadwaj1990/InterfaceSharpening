@@ -1,0 +1,14 @@
+Variable index 
+--------------
+phi - signed distance function 
+psi - heaviside function 
+nIB - number of interface point markers 
+imax, jmax - total numer of points in x and y directions 
+eps_i - order of thickness of initial interface 
+eps - order of grid resolution 
+xg, yg - coordinates of grid points 
+x, y - coordinates of cell centres 
+ncap - normals to the two-phase interface 
+psi_f - Heaviside function at the cell faces 
+n_f - interface normals at cell faces 
+psi_xx, psi_yy - second derivatives of the heaviside function 
